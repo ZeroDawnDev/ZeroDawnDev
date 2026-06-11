@@ -12,8 +12,8 @@
 
 ##  About Me
 
-* 🎓 Master's Student in Artificial Intelligence at KCGI, Kyoto
-* 💻 Computer Science Graduate
+* 🎓 Master's Student in Artificial Intelligence, Kyoto
+* 💻 B.Tech in Computer Science and Engineering
 * 🤖 Building AI-powered applications and intelligent assistants
 * 🌱 Currently learning Reinforcement Learning and Large Language Models
 * 📍 Based in Kyoto, Japan
@@ -77,6 +77,7 @@ Building practical software solutions using modern technologies and AI.
 ## 📫 Connect With Me
 
 * GitHub: @ZeroDawnDev
+* Email: allenadhvaithplpy@gmail.com
 
 ---
 
