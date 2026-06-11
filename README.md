@@ -2,10 +2,6 @@
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="images/banner.png" alt="ZeroDawnDev Banner" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Allen Adhvaith 👋</h1>
 
 <p align="center">
